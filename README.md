@@ -4,10 +4,7 @@
 ![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/BerlinAmsterdam.png)
 
 
-<html>
-<audio controls>
-  <source src="[reprex.wav](https://github.com/unton3ton/audiospecter/blob/main/BerlinAmsterdam.wav)" type="audio/wav">
-</audio></html>
+![WoW.wav](https://github.com/unton3ton/audiospecter/blob/main/BerlinAmsterdam.wav)
 
 
 ![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/kiki.jpg)
