@@ -1,4 +1,4 @@
-
+![](https://github.com/unton3ton/audiospecter/blob/main/Audiomanipulation/guitar-outputform.png)
 
 ## Sources
 
