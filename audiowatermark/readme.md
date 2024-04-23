@@ -1,5 +1,7 @@
+![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/audiowatermark/guitar16kHzspectr.png)
 
 
+![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/audiowatermark/guitar16kHz-wmputspectr.png)
 
 ## Sources
 
