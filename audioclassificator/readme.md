@@ -1,4 +1,7 @@
+![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/audioclassificator/Flow-4.png)
 
+
+![](https://raw.githubusercontent.com/unton3ton/audiospecter/main/audioclassificator/92%25after2epochs.PNG)
 
 ## Sources
 
